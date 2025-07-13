@@ -138,7 +138,7 @@ body {
   top: calc(22px + 53% + 2vh);
   left: -25px;
   width: 45%;
-  max-width: 255px;
+  max-width: 235px;
   height: 230px;
   background-color: rgba(66, 66, 66, 0.537);
   border-radius: 8px;
