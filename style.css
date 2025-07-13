@@ -1857,7 +1857,9 @@ html {
   .featured-tint-section h3 {
     font-size: 2rem;
   }
-
+  .feature-details li::before{
+    font-size: 0.8rem;
+  }
   .tint-feature-block {
     width: 100%;
     max-width: 95%;
