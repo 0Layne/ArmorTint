@@ -427,12 +427,15 @@ z-index: 8888;
 text-align: center;
 margin: 0 auto;
 padding-top: 1rem;
+width: 90%;
 }
 .contact-text h1{
 font-size: 3.5rem;
 letter-spacing: 0.2px;
 margin: 0 auto;
 margin-bottom: 1vh;
+width: 90%;
+text-align: center;
 }
 .contact-line{
   width: 10vh;
